@@ -1,0 +1,25 @@
+@charset "utf-8"
+
+body{
+    font-family: "Noto Sans TC", serif;
+}
+
+
+img{
+    vertical-align: bottom;
+}
+
+.header-food{
+    display: none;
+}
+
+.nav-btnWrap{
+    display: none;
+}
+
+.header{
+background-color: papayawhip;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
